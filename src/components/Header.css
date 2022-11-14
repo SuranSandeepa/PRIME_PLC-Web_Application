@@ -1,0 +1,29 @@
+.custom-style-header-navlinks {
+  margin-left: 1vw;
+  font-size: 1rem;
+}
+
+.navi {
+  background-color: #525252;
+  padding-bottom: 5vw;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.web-brand-name {
+  font-size: 3.3rem;
+  padding-left: 3vw;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.ml-auto {
+  margin-left: auto !important;
+}
+
+.back {
+  background-color: #aeaeae;
+}
+
+.cad {
+  box-shadow: 0 4px 8px 0 rgba(196, 73, 25, 0.897);
+  transition: 0.1s;
+}
